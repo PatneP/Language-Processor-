@@ -1,0 +1,11 @@
+load m
+load p
+load q
+add w
+load q
+load p
+add w
+load 4
+load 3
+add 5
+END

@@ -1,0 +1,6 @@
+COPY START 1000
+ 
+//main program(make sure one empty line is present here)
+FIRST STL RETADR
+//RDBUFF F1,BUFF1,L1
+ Hello END

@@ -1,0 +1,11 @@
+COPY START 1000
+RDBUFF MACRO P,Q,R
+Hello
+MEND
+ 
+//main program(make sure one empty line is present here)
+FIRST STL RETADR
+RDBUFF F1,BUFF1,L1
+END
+
+

@@ -1,0 +1,15 @@
+macro ABC
+load p
+load q
+add w
+Mend
+macro xyz &a,&b,&c
+load &b
+load &a
+add &c
+ABC
+Mend
+load m
+ABC
+xyz 3,4,5
+END
